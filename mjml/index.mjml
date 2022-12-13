@@ -1,0 +1,264 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Quantico"
+      href="https://fonts.googleapis.com/css2?family=Quantico"
+    />
+    <mj-attributes>
+      <!-- Default Section  -->
+      <mj-text
+        font-family="Quantico, sans-serif"
+        align="center"
+        font-size="18px"
+        line-height="26px"
+        color="#fff"
+        padding="0"
+      />
+      <mj-image padding="0px" />
+      <mj-button
+        background-color="#d1aa5a"
+        font-size="14px"
+        color="#000"
+        font-family="Quantico, sans-serif"
+        text-transform="uppercase"
+        border-radius="0px"
+        height="45px"
+        width="200px"
+      />
+      <mj-section padding="0" background-color="#000" />
+
+      <!-- Custom Classes -->
+      <mj-class
+        name="head-text"
+        font-size="48px"
+        line-height="69px"
+        text-transform="uppercase"
+      />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f1f1f1">
+    <!-- logo section -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          href="https://www.google.com"
+          src="https://i.postimg.cc/13nSQcp3/logo.png"
+          alt="Logo"
+          width="128px"
+          padding="20px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- logo section -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          href="https://www.google.com"
+          src="https://i.postimg.cc/qvRsMgRR/hero-image.png"
+          alt="Welcome to the team"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Discount section -->
+    <mj-section padding-top="80px">
+      <mj-column>
+        <mj-image
+          href="https://www.google.com"
+          src="https://i.postimg.cc/8zZVMXN4/discount-image.png"
+          alt="Thanks for signin up warrior. Enjon 10% of your next order."
+          width="500px"
+          padding="0 50px"
+        />
+        <mj-button padding="20px 0 5px 0"> get 10% off now </mj-button>
+        <mj-text font-size="12px"> Or use code: 1234xqju At checkout </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- why section -->
+    <mj-section padding="80px 20px 0px 20px">
+      <mj-column width="400px" padding="0 0 15px 0">
+        <mj-text mj-class="head-text"> Why Warstick? </mj-text>
+      </mj-column>
+      <mj-column width="420px">
+        <mj-text>
+          We design uniquely original sporting goods for people looking for more
+          substance and style from their stic, without sacrificing performance.
+        </mj-text>
+        <mj-image
+          href="https://www.google.com"
+          src="https://i.postimg.cc/HW4tsqpr/why-image.png"
+          alt="Learn more"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- video section -->
+    <mj-section padding-top="80px">
+      <mj-column padding="0 0 15px 0">
+        <mj-text mj-class="head-text" padding="0 20px"> be the storm </mj-text>
+        <mj-text> check out our latest video </mj-text>
+        <mj-image
+          href="https://www.google.com"
+          src="https://i.postimg.cc/kXRKRLCN/video-image.jpg"
+          alt=""
+          padding-top="20px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- services section -->
+    <mj-section padding-top="80px">
+      <mj-column>
+        <mj-text font-size="30px" text-transform="uppercase" padding="0 20px">
+          outstanding service
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- gaurantees section -->
+    <mj-section padding="30px 50px 0 50px">
+      <mj-column width="200px" padding="20px">
+        <mj-image
+          width="40px"
+          src="https://i.postimg.cc/kgbG7t8q/truck.png"
+          alt="truck image"
+        />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">
+          Express Delivery
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image
+          width="40px"
+          src="https://i.postimg.cc/kgbG7t8q/truck.png"
+          alt="truck image"
+        />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">
+          Express Delivery
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image
+          width="40px"
+          src="https://i.postimg.cc/kgbG7t8q/truck.png"
+          alt="truck image"
+        />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">
+          Express Delivery
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image
+          width="40px"
+          src="https://i.postimg.cc/kgbG7t8q/truck.png"
+          alt="truck image"
+        />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">
+          Express Delivery
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- payment section -->
+    <mj-section padding="80px 0 50px 0">
+      <mj-column padding="0 30px">
+        <mj-text>
+          <image
+            width="40"
+            src="https://i.postimg.cc/P5YYrq8s/pay1.png"
+            alt=""
+            style="padding: 5px"
+          />
+          <image
+            width="40"
+            src="https://i.postimg.cc/rmkkXf22/pay2.png"
+            alt=""
+            style="padding: 5px"
+          />
+          <image
+            width="40"
+            src="https://i.postimg.cc/0yKRzT8q/pay3.png"
+            alt=""
+            style="padding: 5px"
+          />
+          <image
+            width="40"
+            src="https://i.postimg.cc/26wPpmxn/pay4.png"
+            alt=""
+            style="padding: 5px"
+          />
+          <image
+            width="40"
+            src="https://i.postimg.cc/zDx90zvr/pay5.png"
+            alt=""
+            style="padding: 5px"
+          />
+          <image
+            width="40"
+            src="https://i.postimg.cc/NFFCWXFw/pay6.png"
+            alt=""
+            style="padding: 5px"
+          />
+          <image
+            width="40"
+            src="https://i.postimg.cc/3wZLN1DT/pay7.png"
+            alt=""
+            style="padding: 5px"
+          />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer section -->
+    <mj-section background-color="#f6f6ef" padding="0 0 30px 0">
+      <mj-column width="300px" padding-top="30px">
+        <mj-text>
+          <image
+            width="25px"
+            src="https://i.postimg.cc/NF1M1K8R/facebook.png"
+            style="padding: 5px"
+          />
+          <image
+            width="25px"
+            src="https://i.postimg.cc/KYJtMHcm/instagram.png"
+            style="padding: 5px"
+          />
+          <image
+            width="25px"
+            src="https://i.postimg.cc/15hMPbfd/twitter.png"
+            style="padding: 5px"
+          />
+          <image
+            width="25px"
+            src="https://i.postimg.cc/hv9LfPf5/youtube.png"
+            style="padding: 5px"
+          />
+        </mj-text>
+        <mj-text
+          color="#303030"
+          font-family="Helvetica"
+          font-size="12px"
+          line-height="14px"
+          padding-top="15px"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
+          eleifend gravida enim eget sagittis.
+          <br /><br />
+          Aenean quis tempor urna, at ultrices diam. Suspendisse accumsan felis
+          ac eros vehicula, vel condimentum
+        </mj-text>
+        <mj-text
+          font-family="Helvetica"
+          font-size="12px"
+          line-height="14px"
+          padding-top="15px"
+        >
+          <a href="https://www.google.com">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
