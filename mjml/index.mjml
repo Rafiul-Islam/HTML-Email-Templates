@@ -79,10 +79,8 @@
 
     <!-- why section -->
     <mj-section padding="80px 20px 0px 20px">
-      <mj-column width="400px" padding="0 0 15px 0">
+      <mj-column padding="0 0 15px 0">
         <mj-text mj-class="head-text"> Why Warstick? </mj-text>
-      </mj-column>
-      <mj-column width="420px">
         <mj-text>
           We design uniquely original sporting goods for people looking for more
           substance and style from their stic, without sacrificing performance.
