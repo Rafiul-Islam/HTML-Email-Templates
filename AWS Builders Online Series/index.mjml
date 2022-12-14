@@ -1,0 +1,431 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font
+      name="Ubuntu"
+      href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,500;0,700;1,400;1,700&display=swap"
+    />
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto"
+    />
+    <mj-attributes>
+      <!-- Default Section's Design  -->
+      <mj-text
+        color="#232F3E"
+        font-size="16px"
+        line-height="24px"
+        font-weight="400"
+        font-family="Roboto, Arial, Helvetica, sans-serif"
+      />
+      <mj-image padding="0px" />
+      <mj-button
+        background-color="#ff9900"
+        color="#232f3e"
+        font-family="Roboto, Arial, Helvetica, sans-serif"
+        border-radius="0px"
+        font-size="14px"
+        font-weight="700"
+        line-height="18px"
+        padding="10px 20px"
+      />
+      <mj-section padding="0" background-color="#FAFAFA" />
+
+      <!-- Custom Classes -->
+      <mj-class
+        name="head-text"
+        font-size="24px"
+        line-height="28px"
+        font-weight="700"
+        align="center"
+        font-family="Roboto, Arial, Helvetica, sans-serif"
+      />
+      <mj-class
+        name="section-head-text"
+        font-size="18px"
+        line-height="22px"
+        font-weight="bold"
+        font-family="Roboto, Arial, Helvetica, sans-serif"
+      />
+
+      <mj-class
+        name="reason-text"
+        font-size="14px"
+        line-height="20px"
+        font-weight="600"
+        align="center"
+        font-family="Roboto, Arial, Helvetica, sans-serif"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- hero image -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/aws-bos-23q1-em-bnr-en.jpg"
+          alt="Builders Online Series - Your quick start to AWS"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- heading title -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="head-text" padding="30px 0 0 0">
+          Jumpstart your cloud journey with AWS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- details section -->
+    <mj-section padding="5px">
+      <mj-column>
+        <mj-text padding-bottom="15px">
+          You are invited to join us on <strong>18 Jan, 2023</strong> for
+          <strong>AWS Builders Online Series.</strong> Learn AWS cloud concepts,
+          architectural best practices, and step-by-step guides to help you get
+          started and accelerate your success on AWS. <br /><br />
+          Join<strong> Kris Howard, Head of Dev Relations, APJ, AWS</strong> as
+          she shares the <strong>latest updates and launches</strong> from AWS
+          re:Invent 2022.<br /><br />
+          Whether you are new or simply curious about AWS, join us to learn
+          more!
+        </mj-text>
+        <mj-button href="#"> Register now </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Reasons to attend heading section -->
+    <mj-section padding="5px 5px 0px 5px">
+      <mj-column>
+        <mj-text mj-class="section-head-text"> Reasons to attend: </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Reasons to attend description section -->
+    <mj-section padding="0px 5px 10px 5px">
+      <mj-column padding="10px 0">
+        <mj-image
+          width="100px"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/builders-23q1-icon-opening.png"
+          alt=""
+        />
+        <mj-text mj-class="reason-text"> Live closing & 15 sessions </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0">
+        <mj-image
+          width="100px"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/builders-23q1-icon-live.png"
+          alt=""
+        />
+        <mj-text mj-class="reason-text"> Live Q&A with AWS experts </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0">
+        <mj-image
+          width="100px"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/builders-23q1-icon-cert.png"
+          alt=""
+        />
+        <mj-text mj-class="reason-text"> Certificate of attendance </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Don't miss out these topics heading section -->
+    <mj-section padding="5px 5px 0px 5px">
+      <mj-column>
+        <mj-text mj-class="section-head-text">
+          Don't miss out these topics:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Don't miss out these topics description section -->
+    <mj-section padding="0px 5px 5px 5px">
+      <mj-column padding="10px 0">
+        <mj-image
+          width="80px"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/awsome_day_22q2_ico_compute.png"
+          alt=""
+        />
+        <mj-text mj-class="reason-text"> Serverless Containers </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0">
+        <mj-image
+          width="80px"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/awsome_day_22q2_ico_storage.png"
+          alt=""
+        />
+        <mj-text mj-class="reason-text"> Storage </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0">
+        <mj-image
+          width="80px"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/awsome_day_22q2_ico_database.png"
+          alt=""
+        />
+        <mj-text mj-class="reason-text"> Database </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0">
+        <mj-image
+          width="80px"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/awsome_day_22q2_ico_security.png"
+          alt=""
+        />
+        <mj-text mj-class="reason-text"> Security </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0">
+        <mj-image
+          width="80px"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/awsome_day_22q2_ico_ml.png"
+          alt=""
+        />
+        <mj-text mj-class="reason-text"> Machine Learning </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Event details heading section -->
+    <mj-section padding="5px 5px 0px 5px">
+      <mj-column>
+        <mj-text mj-class="section-head-text"> Event details </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Event details heading section -->
+    <mj-section padding="5px 0px 5px 30px">
+      <mj-column width="50%">
+        <mj-text
+          font-size="20px"
+          font-weight="bold"
+          align="center"
+          container-background-color="#232f3e"
+          color="#ffffff"
+        >
+          JAN
+        </mj-text>
+        <mj-text
+          font-size="30px"
+          font-weight="bold"
+          align="center"
+          container-background-color="#efefef"
+          color="#656565"
+          padding="35px 0"
+        >
+          18
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text padding-top="0">
+          <strong>AWS Builders Online Series</strong><br />
+          <strong>Date:</strong> 18 January, 2023<br />
+          <strong>Location:</strong> 1Online - Simulive<br />
+          <strong>Time:</strong>
+          <a href="#" style="color: #007dbc !important; text-decoration: none">
+            View timings
+          </a>
+        </mj-text>
+        <mj-button href="#"> View agenda and register now </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- regards section -->
+    <mj-section padding="5px 0px 0px 5px">
+      <mj-column>
+        <mj-text>
+          We look forward to engaging with you on
+          <strong>18 Jan, 2023.</strong> <br /><br />
+          Best regards,<br />
+          Amazon Web Services
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- start aws to day image button -->
+    <mj-section background-color="#fff" padding="30px 30px 0px 30px">
+      <mj-column>
+        <mj-image
+          href="#"
+          src="https://pages.awscloud.com/rs/112-TZM-766/images/ba-apj-freetier-2022-v2.png"
+          alt=""
+        />
+        <mj-text align="center" font-size="10px" padding-top="0">
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Twitter&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Facebook&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Twitch&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS Blog&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS TechChat
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- links -->
+    <mj-section background-color="#fff" padding="5px">
+      <mj-column>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="gray"
+          padding-bottom="0"
+        />
+        <mj-text align="center" font-size="9px" padding-top="0">
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Twitter&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Facebook&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Twitch&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS Blog&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS TechChat
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Twitter&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Facebook&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS on Twitch&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS Blog&nbsp;|
+          </a>
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            AWS TechChat
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- view online link -->
+    <mj-section background-color="#fff" padding="0 5px">
+      <mj-column>
+        <mj-text align="center" font-size="14px">
+          <a
+            href="#"
+            style="color: #007dbc !important; text-decoration: none !important"
+          >
+            View Online
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+    <mj-section background-color="#fff" padding="0 5px 70px 5px">
+      <mj-column>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="gray"
+          padding="0"
+        />
+        <mj-text
+          padding-top="0"
+          font-size="9px"
+          align="center"
+          line-height="18px"
+        >
+          <p style="margin-bottom: 0">
+            If you'd rather not receive future emails from Amazon Web Services,
+            <a
+              href="#"
+              style="
+                color: #007dbc !important;
+                text-decoration: none !important;
+              "
+              >unsubscribe here.
+            </a>
+            <br />
+            Amazon Web Services, Inc. is a subsidiary of Amazon.com, Inc.
+            Amazon.com is a registered trademark of Amazon.com.
+            <br />
+            This message was produced and distributed by Amazon Web Services,
+            Inc. or its
+            <a
+              href="#"
+              style="
+                color: #007dbc !important;
+                text-decoration: none !important;
+              "
+            >
+              affiliates
+            </a>
+            410 Terry Ave. North, Seattle, WA 98109.
+            <br />
+            © 2022, Amazon Web Services, Inc. or its affiliates. All rights
+            reserved. Read our
+            <a
+              href="#"
+              style="
+                color: #007dbc !important;
+                text-decoration: none !important;
+              "
+            >
+              Privacy Notice
+            </a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
