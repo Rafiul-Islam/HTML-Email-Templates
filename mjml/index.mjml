@@ -163,78 +163,94 @@
     <!-- payment section -->
     <mj-section padding="80px 0 50px 0">
       <mj-column padding="0 30px">
-        <mj-text>
-          <image
-            width="40"
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            href="#"
+            icon-size="40px"
             src="https://i.postimg.cc/P5YYrq8s/pay1.png"
-            alt=""
-            style="padding: 5px"
-          />
-          <image
-            width="40"
+            padding="0 5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="40px"
             src="https://i.postimg.cc/rmkkXf22/pay2.png"
-            alt=""
-            style="padding: 5px"
-          />
-          <image
-            width="40"
+            padding="0 5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="40px"
             src="https://i.postimg.cc/0yKRzT8q/pay3.png"
-            alt=""
-            style="padding: 5px"
-          />
-          <image
-            width="40"
+            padding="0 5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="40px"
             src="https://i.postimg.cc/26wPpmxn/pay4.png"
-            alt=""
-            style="padding: 5px"
-          />
-          <image
-            width="40"
+            padding="0 5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="40px"
             src="https://i.postimg.cc/zDx90zvr/pay5.png"
-            alt=""
-            style="padding: 5px"
-          />
-          <image
-            width="40"
+            padding="0 5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="40px"
             src="https://i.postimg.cc/NFFCWXFw/pay6.png"
-            alt=""
-            style="padding: 5px"
-          />
-          <image
-            width="40"
+            padding="0 5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="40px"
             src="https://i.postimg.cc/3wZLN1DT/pay7.png"
-            alt=""
-            style="padding: 5px"
-          />
-        </mj-text>
+            padding="0 5px"
+          >
+          </mj-social-element>
+        </mj-social>
       </mj-column>
     </mj-section>
 
     <!-- footer section -->
     <mj-section background-color="#f6f6ef" padding="0 0 30px 0">
       <mj-column width="300px" padding-top="30px">
-        <mj-text>
-          <image
-            width="25px"
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            href="#"
+            icon-size="25px"
             src="https://i.postimg.cc/NF1M1K8R/facebook.png"
-            style="padding: 5px"
-          />
-          <image
-            width="25px"
+            padding="0 10px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="25px"
             src="https://i.postimg.cc/KYJtMHcm/instagram.png"
-            style="padding: 5px"
-          />
-          <image
-            width="25px"
+            padding="0 10px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="25px"
             src="https://i.postimg.cc/15hMPbfd/twitter.png"
-            style="padding: 5px"
-          />
-          <image
-            width="25px"
+            padding="0 10px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            icon-size="25px"
             src="https://i.postimg.cc/hv9LfPf5/youtube.png"
-            style="padding: 5px"
-          />
-        </mj-text>
+            padding="0 10px"
+          >
+          </mj-social-element>
+        </mj-social>
+
         <mj-text
           color="#303030"
           font-family="Helvetica"
